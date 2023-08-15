@@ -1,11 +1,13 @@
 // ==UserScript==
-// @name         BadgesMrk47
+// @name         RPlace 2023
 // @namespace    https://okunamayanad.com/
 // @version      1.0
-// @description  Reemplaza las insignias de 1.5 años por las insignias de prueba en las resoluciones 18x18px, 36x36px y 72x72px Github: https://github.com/mrken47h/badgesTwitch
-// @author       MrKenny47
+// @description  Discord: @okunamayand, Github: https://github.com/okunamayanad/r-place-2023
+// @author       okunamayanad
 // @match        https://www.twitch.tv/*
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
 // @grant        none
+// @license MIT
 // ==/UserScript==
 
 (function() {
