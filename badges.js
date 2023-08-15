@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         BadgesMrk47
-// @namespace    https://okunamayanad.com/
+// @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Reemplaza las insignias de 1.5 años por las insignias de prueba en las resoluciones 18x18px, 36x36px y 72x72px Github: https://github.com/mrken47h/badgesTwitch
 // @author       MrKenny47
